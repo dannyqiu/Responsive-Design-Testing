@@ -1,4 +1,4 @@
-var defaultURL = 'mattkersley.com/responsive/responsive_iframe.html'; //<---- CHANGE TO YOUR WEBSITE URL
+var defaultURL = 'dannyqiu.github.io'; //<---- CHANGE TO YOUR WEBSITE URL
 
 //show loading graphic
 function showLoader(id) {
